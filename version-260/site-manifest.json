@@ -1,0 +1,22 @@
+{
+    "site_title": "欧美精选影片-精选影片片单-分类内容持续更新",
+    "logo": "欧美精选影片",
+    "movie_count": 2000,
+    "detail_page_count": 2000,
+    "category_count": 10,
+    "category_distribution": {
+        "oumei-jingxuan": 200,
+        "gaofen-juqing": 200,
+        "kehuan-dongzuo": 200,
+        "aiqing-xiju": 200,
+        "xuanyi-fanzui": 200,
+        "donghua-jiating": 200,
+        "lishi-zhanzheng": 200,
+        "qihuan-maoxian": 200,
+        "yazhou-juchang": 200,
+        "nianfen-xinpian": 200
+    },
+    "cover_rule": "cover_num = ((movie_index - 1) % 150) + 1",
+    "video_sources_from_uploaded_js": 150,
+    "generated_at": "2026-05-27"
+}
